@@ -7,7 +7,7 @@ Available on https://my-story-website.herokuapp.com/ <br>
 ![image](https://user-images.githubusercontent.com/61602995/150642848-e96789d2-6dfd-44d4-9f41-f2a35efbde48.png)
 
 
-<br><br>
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
